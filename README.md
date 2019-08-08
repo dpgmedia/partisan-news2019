@@ -1,5 +1,19 @@
-# partisan-news2019
-Dataset for partisan news detection
+# DpgMedia2019: A Dutch News Dataset for Partisanship Detection
+
+## Citation
+
+If you use this dataset, please cite the following paper:
+
+```latex
+@misc{1908.02322,
+  Author = {Chia-Lun Yeh and Babak Loni and Mariëlle Hendriks and Henrike Reinhardt and Anne Schuth},
+  Title = {DpgMedia2019: A Dutch News Dataset for Partisanship Detection},
+  Year = {2019},
+  Eprint = {arXiv:1908.02322},
+}
+```
+
+## Description
 
 This dataset consists of two levels of annotation of partisanship of Dutch news articles from DPG Media.
 Detailed collection and annotation process can be found at URL
