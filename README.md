@@ -4,7 +4,7 @@
 
 If you use this dataset, please cite the following paper:
 
-```latex
+```
 @misc{1908.02322,
   Author = {Chia-Lun Yeh and Babak Loni and Mariëlle Hendriks and Henrike Reinhardt and Anne Schuth},
   Title = {DpgMedia2019: A Dutch News Dataset for Partisanship Detection},
